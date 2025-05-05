@@ -23,7 +23,6 @@
 ```
 data/： 包括了数据集
 run/： 包括了演示用前端
-test/：这里存放了测试文件以及rag文本知识库
 agent/： 包括了agent实现
 finetune/： 包括了finetune实现
 knowledges/： 包括了rag实现
