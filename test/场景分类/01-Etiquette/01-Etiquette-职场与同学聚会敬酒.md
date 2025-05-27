@@ -1,4 +1,4 @@
-作者： DingYue https://github.com/dingyue772
+
 
 ```txt
 # 敬酒礼仪文化
