@@ -1,4 +1,3 @@
-作者： DingYue https://github.com/dingyue772
 
 # 送礼礼仪文化
 
