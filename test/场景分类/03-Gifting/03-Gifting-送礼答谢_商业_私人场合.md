@@ -1,4 +1,3 @@
-作者： ShiqiDing https://github.com/GoldWaterFall  以及散步
 
 \#送礼答谢文化
 
