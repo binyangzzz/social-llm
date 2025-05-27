@@ -1,4 +1,3 @@
-作者： DingYue https://github.com/dingyue772
 
 # 请客礼仪文化
 
